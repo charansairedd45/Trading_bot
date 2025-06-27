@@ -37,4 +37,46 @@ mkdir logs
 2. Set environment variables:
 ## 🚀 Usage
 python main.py
+### Menu Options
+- View Account Info
+- Get Symbol Price  
+- Place Market/Limit/Stop-Loss Orders
+- View/Cancel Orders
+- Quick Trade Interface
+
+## 📁 Project Structure
+crypto-trading-bot/
+├── main.py # Main application
+├── bot.py # Trading bot implementation
+├── requirements.txt # Dependencies
+├── logs/ # Log files
+└── README.md # Documentation
+
+## 📦 Dependencies
+
+python-binance==1.0.19
+pandas==2.0.3
+numpy==1.24.3
+colorama==0.4.6
+
+## ⚠️ Disclaimer
+
+- **TESTNET ONLY** - Educational purposes
+- **NOT FINANCIAL ADVICE** 
+- Cryptocurrency trading involves significant risk
+- Test thoroughly before any real trading
+
+.gitignore
+__pycache__/
+*.pyc
+venv/
+.env
+logs/*.log
+.DS_Store
+*.tmp
+requirements.txt
+python-binance==1.0.19
+pandas==2.0.3
+numpy==1.24.3
+colorama==0.4.6
 
