@@ -46,11 +46,11 @@ python main.py
 
 ## 📁 Project Structure
 crypto-trading-bot/
-├── main.py # Main application
-├── bot.py # Trading bot implementation
-├── requirements.txt # Dependencies
-├── logs/ # Log files
-└── README.md # Documentation
+├── main.py                    # Main application
+├── bot.py                     # Trading bot implementation  
+├── requirements.txt           # Dependencies
+├── logs/                      # Log files
+└── README.md                  # Documentation
 
 ## 📦 Dependencies
 
