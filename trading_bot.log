@@ -1,0 +1,13 @@
+2025-06-28 00:27:42,355 - TradingBot - INFO - API connection successful
+2025-06-28 00:27:42,356 - TradingBot - INFO - Bot initialized successfully
+2025-06-28 00:27:42,357 - TradingBot - INFO - Fetching account information...
+2025-06-28 00:27:42,737 - TradingBot - INFO - Total Balance: 15000.0 USDT
+2025-06-28 00:27:42,738 - TradingBot - INFO - Available Balance: 15000.0 USDT
+2025-06-28 00:27:43,111 - TradingBot - INFO - Current price for BTCUSDT: 106552.4
+2025-06-28 00:31:00,145 - TradingBot - INFO - API connection successful
+2025-06-28 00:31:00,147 - TradingBot - INFO - Bot initialized successfully
+2025-06-28 00:31:17,214 - TradingBot - INFO - Fetching account information...
+2025-06-28 00:31:17,412 - TradingBot - INFO - Total Balance: 15000.0 USDT
+2025-06-28 00:31:17,412 - TradingBot - INFO - Available Balance: 15000.0 USDT
+2025-06-28 00:31:52,870 - TradingBot - ERROR - Error getting price for 20000: APIError(code=-1121): Invalid symbol.
+2025-06-28 00:32:34,198 - TradingBot - ERROR - Error getting order status: APIError(code=-1121): Invalid symbol.
